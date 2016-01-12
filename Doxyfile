@@ -1,0 +1,8 @@
+PROJECT_NAME    = "MatrixCalculator"
+PROJECT_BRIEF   = "MatrixCalculator - calculate with matrices and fractions"
+GENERATE_LATEX  = NO
+HAVE_DOT        = YES
+UML_LOOK        = YES
+HTML_OUTPUT     = "./doc"
+INPUT          = "./src"
+EXTRACT_PRIVATE = YES 
